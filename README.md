@@ -25,3 +25,6 @@ docker run -p 8080:8080 --name docker-spring-boot --link mysql-standaloneiki:mys
 docker run --name mysql-standaloneiki -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=first -e MYSQL_PASSWORD=root -d mysql/mysql-server:5.6  <br>
 I have watched this video for spring boot docker. <br>
 https://www.youtube.com/watch?v=fvEWoy1xOvo&ab_channel=TechPrimers
+-> I have not created user interface and printed timestamps because time is not sufficent for me. <br>
+Anahtar : gAAAAABgUNiI4uDIQJWs6KQXoo5zFM2MN30N58S3tIAgWL0XcIzG8d9h3lC2TTSm8eNT2yXe3WxMPQBKEed1MpWqm8pj-7p9iE-w7DTvA-6I1m4zLGvn1yxdOHw6YiTiblVrmSSE9MX1s4rPahQrGXNlGYyHfsLVbhPmGx5_tN2lLRlfL4Xh7GoUpUs00-QV_MdiFJd03sq
+<br>
