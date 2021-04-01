@@ -18,3 +18,10 @@ This is docker log for spring boot project <br>
 But when I run my project image which converted from .jar file by using mysql container, it failed because of connection error :/ <br>
 ![failure](https://user-images.githubusercontent.com/23221280/113321527-59ce6d00-931c-11eb-9f77-8ddcd1adc311.PNG)
 <br>
+
+I have used some docker commnads, examples:  <br>
+docker logs docker-spring-boot  <br>
+docker run -p 8080:8080 --name docker-spring-boot --link mysql-standaloneiki:mysql/mysql-server -d docker-spring-boot  <br>
+docker run --name mysql-standaloneiki -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=first -e MYSQL_PASSWORD=root -d mysql/mysql-server:5.6  <br>
+I have watched this video for spring boot docker. <br>
+https://www.youtube.com/watch?v=fvEWoy1xOvo&ab_channel=TechPrimers
