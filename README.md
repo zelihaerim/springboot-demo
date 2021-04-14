@@ -6,10 +6,10 @@ There is some commands and image: <br>
 <br>
 ![commandbir](https://user-images.githubusercontent.com/23221280/113321515-589d4000-931c-11eb-81ca-2cf81feb0ab6.PNG)
 <br>
-This is local some host result when fetching datas from mysql workbench <br>
+This is some local host results when fetching datas from mysql workbench <br>
 ![local1](https://user-images.githubusercontent.com/23221280/113321517-589d4000-931c-11eb-85a8-ecf6fe11d331.PNG)
 <br>
-This is local some host result when fetching datas from mysql workbench <br>
+This is some local host results when fetching datas from mysql workbench <br>
 ![local2](https://user-images.githubusercontent.com/23221280/113321520-5935d680-931c-11eb-972f-2b7a7abb0c20.PNG)
 <br>
 This is docker log for spring boot project <br>
